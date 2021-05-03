@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-05-03T09:33:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "alarm_bot_dim"
+        },
+        "Owner": "Jere Koivisto <jkoivist20@student.oulu.fi>",
+        "Size": {
+            "X": 160,
+            "Y": 100
+        }
+    }
+}

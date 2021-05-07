@@ -34,7 +34,7 @@ void loop()
           	timer = 0;
           	delay(1000);
         }
-  		break;
+  	break;
     
     case 1:
         last = now;

@@ -30,7 +30,7 @@ void loop()
         if(digitalRead(BUTTON)){
 			state = 1;
           	now = millis();
-          	until = analogRead(POTEN) * 42.187;//About 12h max.
+          	until = analogRead(POTEN) * 42187;//About 12h max.
           	timer = 0;
           	delay(1000);
         }
